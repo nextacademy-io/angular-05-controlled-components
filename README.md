@@ -1,6 +1,7 @@
 # Angular Workshop: Controlled Components
 
-<video src="./doc/screen.mov"  height="480" controls></video>
+https://github.com/user-attachments/assets/facea32e-ea7e-4f70-ad0f-5b0ef9bdc9e4
+
 
 ### Task Description (Delta)
 
